@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+#score{
+  display: flex;
+  border-style: solid;
+  border-width: 2pt;
+  margin-left:500px;
+  margin-right:500px;
+  margin-bottom: 30px;
+  justify-content: center;
+  align-items: center;
+}
+#student{
+  border-style: solid;
+  margin: 50px;
+
+}
+
+
